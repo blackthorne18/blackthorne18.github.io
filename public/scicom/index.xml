@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SciCom on Prajwal Bharadwaj</title>
+    <link>//localhost:1313/scicom/</link>
+    <description>Recent content in SciCom on Prajwal Bharadwaj</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 26 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/scicom/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>VG&amp;M Harry Potter Event 2024</title>
+      <link>//localhost:1313/scicom/2024oct26-vgm/</link>
+      <pubDate>Sat, 26 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/scicom/2024oct26-vgm/</guid>
+      <description>Harry Potter themed outreach event at the Victoria Gallery &amp;amp; Museum, Liverpool</description>
+    </item>
+    <item>
+      <title>DiMeN Science Communication Competition</title>
+      <link>//localhost:1313/scicom/2024jul17-dimenytshort/</link>
+      <pubDate>Wed, 17 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/scicom/2024jul17-dimenytshort/</guid>
+      <description>My entry was submitted to the Max Perutz Award organised by the MRC, UKRI</description>
+    </item>
+    <item>
+      <title>Pint of Science Talk 2024</title>
+      <link>//localhost:1313/scicom/2024may14-pintofscience/</link>
+      <pubDate>Thu, 16 May 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/scicom/2024may14-pintofscience/</guid>
+      <description>I spoke about plasmids at the Pint of Science event at Ship &amp;amp; Mitre, Liverpool</description>
+    </item>
+    <item>
+      <title>British Science Week Event 2024</title>
+      <link>//localhost:1313/scicom/2024mar16-bsw/</link>
+      <pubDate>Sat, 16 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/scicom/2024mar16-bsw/</guid>
+      <description>Microbiology outreach event for the British Science Week event the Victoria Gallery &amp;amp; Museum, Liverpool</description>
+    </item>
+    <item>
+      <title>Shots of Science Talk 2023</title>
+      <link>//localhost:1313/scicom/2023nov17-shotsofscience/</link>
+      <pubDate>Tue, 07 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/scicom/2023nov17-shotsofscience/</guid>
+      <description>Speaking about mobile genetics elements at the Tempest on Tithebarn St., Liverpool</description>
+    </item>
+    <item>
+      <title>VG&amp;M Harry Potter Event 2023</title>
+      <link>//localhost:1313/scicom/2023oct28-vgm/</link>
+      <pubDate>Sat, 28 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/scicom/2023oct28-vgm/</guid>
+      <description>Harry Potter themed outreach event at the Victoria Gallery &amp;amp; Museum, Liverpool</description>
+    </item>
+    <item>
+      <title>IISc Open Day Event</title>
+      <link>//localhost:1313/scicom/2023mar04-iiscopenday/</link>
+      <pubDate>Sat, 04 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/scicom/2023mar04-iiscopenday/</guid>
+      <description>Open Day Event Discussing How Complexity Arises by Simple Adaptations at IISc, Bangalore</description>
+    </item>
+  </channel>
+</rss>

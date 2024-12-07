@@ -1,0 +1,23 @@
+############################
+## CHANGE THESE
+############################
+
+baseURL: prajwalbharadwaj.com
+title: "Prajwal Bharadwaj"
+
+############################
+## MISC
+############################
+
+enableEmoji: true
+disableKinds: ["taxonomy", "term"]
+languageCode: "en-us"
+enableRobotsTXT: true
+
+markup:
+  goldmark:
+    renderHooks:
+      image:
+        enableDefault: true
+    renderer:
+      unsafe: True

@@ -1,0 +1,71 @@
+############################
+## Author
+############################
+
+author:
+  name: "Hi! I am Prajwal Bharadwaj"
+  image: profilepic.jpg
+  greeting: "I write code, run assays and perform experiments to unravel the mysteries behind evolutionary forces and ecological processes."
+
+############################
+## Links
+############################
+
+links:
+  - email: mailto:prajwal@liverpool.ac.uk 
+  - x-twitter: https://x.com/Prajwal_18
+  - bluesky: https://bsky.app/profile/prajwalvb.bsky.social
+  - orcid: https://orcid.org/0009-0003-0214-8666
+  # - github: https://github.com/chrede88/qubt
+  # - gitlab: 
+  # - mastodon:
+  # - linkedin: https://github.com/chrede88/qubt
+  # - instagram: https://github.com/chrede88/L1nkr
+  # - reddit: 
+  # - telegram: 
+  # - whatsapp: 
+  # - signal: 
+  # - codepen: 
+  # - dev: 
+  # - website: https://github.com/chrede88/qubt
+  # - link: 
+  # - discord:
+  # - slack:
+  # - stack-overflow: 
+  # - twitch: 
+  # - patreon: 
+  # - soundcloud:
+  # - dribbble: 
+  # - stack-exchange: 
+  # - tiktok: 
+  # - youtube:
+  # - keybase: 
+  # - flickr: 
+  # - tumblr:
+  # - kickstarter: 
+  # - snapchat:
+  # - bitbucket:
+  # - bandcamp: 
+  # - etsy: 
+  # - spotify: 
+  # - pinterest: 
+  # - strava: 
+  # - untappd: 
+  # - skype: 
+  # - medium: 
+  # - foursquare: 
+  # - apple: 
+  # - amazon: 
+  # - google: 
+  # - paypal:
+  # - pgp-key: 
+  # - windows: 
+
+###############################
+## OpenGraph & Twitter Cards
+###############################
+
+title: "Qubt Theme"
+description: "Demo site build with Qubt & Hugo"
+images:
+  - thumbnail.png
