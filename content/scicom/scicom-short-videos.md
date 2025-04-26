@@ -5,8 +5,9 @@ cardimage:
 date: 2025-04-04
 ---
 
-## Communicate Your Science Workshop
-> April 4th 2025<br>
+<h2>Communicate Your Science Workshop</h2>
+> April 4th 2025
+
 I attended the Communicate Your Science, 2-4th April 2025, organised by the Genetics Society at Chichely Hall, UK. On Day 3, we were given guidance and instructions on making short form videos, and given a couple of hours to plan and shoot our own. This was my attempt, talking about how plasmids shaped the Black Plague.
 
 <div style="display:grid;place-items:center;">
@@ -14,8 +15,9 @@ I attended the Communicate Your Science, 2-4th April 2025, organised by the Gene
 </div>
 
 <br>
-## DiMeN Science Communication Competition
-> July 17th 2024<br>
+<h2>DiMeN Science Communication Competition</h2>
+> July 17th 2024
+
 The Medical Research Council (MRC) Max Perutz Award is a science communication competition for MRC PhD students. 
 My video entry can be found on Youtube. 
 
