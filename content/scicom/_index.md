@@ -1,5 +1,5 @@
 ---
-title: SciCom
+title: Public Engagement Activites
 cardimage:
 ---
 <figure style="display:grid;place-items:center;">
