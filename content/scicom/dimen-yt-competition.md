@@ -1,6 +1,6 @@
 ---
 title: DiMeN Youtube Shorts SciCom Contest
-summary: My entry for the MRC Max Perutz Award
+summary: My first ever attempt at making a YT shorts video for the MRC Max Perutz Award
 cardimage:
 date: 2024-07-17
 ---
