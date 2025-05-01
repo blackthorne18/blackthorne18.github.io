@@ -1,6 +1,6 @@
 ---
-title: Science Communication Short Videos
-summary: My attempts at creating engaging science communication short form videos meant for Youtube/Instagram/Tiktok audiences
+title: SciCom Videos 
+summary: A video library of the my science standup, and short form videos.
 cardimage:
 date: 2025-04-04
 ---
@@ -8,7 +8,14 @@ date: 2025-04-04
 <h2>Communicate Your Science Workshop</h2>
 > April 4th 2025
 
-I attended the Communicate Your Science, 2-4th April 2025, organised by the Genetics Society at Chichely Hall, UK. On Day 3, we were given guidance and instructions on making short form videos, and given a couple of hours to plan and shoot our own. This was my attempt, talking about how plasmids shaped the Black Plague.
+I attended the Communicate Your Science, 2-4th April 2025, organised by the Genetics Society at Chichely Hall, UK. 
+On the second day, I performed a stand up routing talking about my work studying plasmids and their compatibility with bacteria that can host them.
+
+<div style="display:grid;place-items:center;">
+    <iframe width="560" height="315" src="https://youtube.com/embed/IEO66UhiejI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+On the final day, we were given guidance and instructions on making short form videos, and given a couple of hours to plan and shoot our own. This was my attempt, talking about how plasmids shaped the Black Plague.
 
 <div style="display:grid;place-items:center;">
     <iframe width="315" height="560" src="https://www.youtube.com/embed/-rhtQezSM2k" title="YouTube Shorts player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

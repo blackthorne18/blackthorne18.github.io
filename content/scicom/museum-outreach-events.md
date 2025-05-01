@@ -1,6 +1,6 @@
 ---
-title: Harry Potter Event at the VG&M
-summary: Harry Potter themed outreach events at the Victoria Gallery & Museum, Liverpool
+title: British Science Week and Harry Potter Events at the VG&M
+summary: Outreach activities at the Victoria Gallery & Museum, Liverpool
 cardimage: /img/vgm-outreach.webp
 date: 2024-10-26
 ---
