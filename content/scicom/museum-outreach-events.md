@@ -5,8 +5,7 @@ cardimage: /img/vgm-outreach.webp
 date: 2024-10-26
 ---
 
-<h2>British Science Week at the Victoria Gallery & Museum</h2>
-> 16th March 2024
+> 16th March 2024<br>
 
 Microbiology outreach event for the British Science Week event the Victoria Gallery & Museum, Liverpool
 
@@ -15,10 +14,9 @@ Microbiology outreach event for the British Science Week event the Victoria Gall
     </figure>
 
 <br>
-<h2>Harry Potter event at the Victoria Gallery & Museum</h2>
-> October 28th 2023 and October 26th 2024
+> October 28th 2023 and October 26th 2024<br>
 
-The Victoria Gallery, Liverpool organises this outreach event every year around Halloween.
+The Victoria Gallery, Liverpool organises the Harry Potter outreach event every year around Halloween.
 
 We discussed with the audience of school children about the diversity of microbes in our environment  and all the places they are found from our hands, to the TV set to our stomach. We talked about the importance of the ‘good’ microbes and the risks of the ‘bad’ ones. We introduced a pipetting challenge for kids, showing them how to use pipettes and multi-chanel pipettes using blue-dye. We had a demonstration of an Oxford Nanopore MinIon running to show how sequencing has become affordable and convinient.
 

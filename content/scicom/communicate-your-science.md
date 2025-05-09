@@ -5,8 +5,7 @@ cardimage:
 date: 2025-04-04
 ---
 
-<h2>Communicate Your Science Workshop</h2>
->April 4th 2025
+> April 4th 2025<br>
 
 Earlies this April, I got to visit the beautiful Chichely Hall for the Communicate Your Science Workshop along with 20 other early career scientists from across the UK and Europe. We were all there to learn how to talk about the cool science we do, without putting anyone to sleep. It was very hands on with lots of opportunity to test out the theory we would have heard hours before. The focus was on speaking to a general audience - yes, real live people!
 

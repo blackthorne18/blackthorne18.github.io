@@ -5,8 +5,7 @@ cardimage:
 date: 2024-07-17
 ---
 
-<h2>DiMeN Science Communication Competition</h2>
->July 17th 2024
+> July 17th 2024<br>
 
 The Medical Research Council (MRC) Max Perutz Award is a science communication competition for MRC PhD students. This was the first time this competition asked students to make a video, as it was until then a writing contest. I had never written a script for a video, let alone shooting and editing it. Despite spending lots of time thinking and writing, the actual shoot and edit was a last minute scramble. I had fun making it so I think that means I won anyway.
 
