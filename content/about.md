@@ -7,12 +7,9 @@ permalink: /about
 
 # My Backstory
 
-Brought up in cheerful and welcoming South Bengaluru, I grew up loving to play cricket, exploring the imaginative islands that spanned my home and reading books untill I ran out of them.
-I spent all of my 13 years of Education at my second home, the Kumaran Group of Institutions. For the most part, Kumarans really shaped much of what I am today. Joining IISER to study Science, really, in many ways, began the next chapter of my life.
+I am an evolutionary biologist, currently at the University of Liverpool working on my PhD. My primary scientific interest is in the evolution of mobile genetic elements. I used computational methods to study transposable elements in bacterial genomes during my master's thesis with Dr. Frederic Bertels. Through this project, I learnt all the bioinformatics and coding tools on the job while also learning to and writing my own custom bioinformatics programs to analyse my data. I have studied three way interactions between a predatory bacteria, prey bacteria and an antibiotic (abiotic factor) selection pressure where I learnt to design, conduct and analyse long term evolution experiments and handling and managing large scale projects. Now during my PhD I am studying the bacterial host range of megaplasmids and the factors that can restrict plasmid conjugation. Hopefully I will get to work on phages in the future and complete the set of mobile genetic elements on my resume.
 
-I always have an active hobby, although it's constantly changing. From months of learning Chess to practicing coding for wanting to work for Google, from folding origami for days on end to wanting to live like Bear Grylls, I find great joy in sampling the buffet of life.
-
-When I'm not writing code to understand evolution of selfish genetic elements or growing bacterial cultures to study the effect of our GOI, I like to test my courage and face Kubolds and Krakken while playing Dungeons and Dragons or I try to go for walks outdoor listening to podcasts. I definitely reccomend listening to 'This Week in Evolution'(TWiEVO) a podcast hosted by Dr. Nels Elde and Prof. Vincent Racaniello. 
-
+While I am not in the lab checking in on how my bacteria are getting along, or writing code to analyse my results, I am likely running in the park listening to my podcast of the week or exploring new worlds in my latest video game. I am always eager to talk about books in the fantasy genre, story-based RPG games - both video games and table top games. 
+ 
 <br>
 <br>

@@ -6,22 +6,16 @@ permalink: /science
 ---
 
 
-## Plasmid Host Interactions in *Pseudomonas aeruginosa*
-#### Antimicrobial resistance is a big treat
-The growing threat of Antimicrobial Resistance (AMR) is predicted to cause the death of 10 million people annually by 2050. The remarkable ability of bacteria to rapidly acquire resistance to antibiotics is a major challenge for healthcare professionals and the pharmaceutical industry. 
+## Plasmid and Prejudice: Studying Plasmid Host Interactions in *Pseudomonas aeruginosa*
+Hospital infections are becoming harder to treat because the bacteria causing them can survive antibiotic treatment. A common bacterial pathogen, Pseudomonas aeruginosa, causes serious infections in patients with cystic fibrosis and those with compromised immune systems. The bacteria rapidly develop antimicrobial resistance (AMR), complicating treatment and placing a growing burden on the healthcare infrastructure. A major driver of this resistance is plasmids. Bacteria have circular bits of DNA called plasmids that contain genes that can help a bacterium defend itself against antibiotics. These plasmids can be shared between different bacteria, like they are exchanging Pokémon cards, allowing more bacteria to become resistant to antibiotics. Normally, it is a burden for the bacteria to host a plasmid, as this increases its energy and resource expenditure. If these plasmids are so costly, why are they so commonly found in bacterial infections? To investigate this, we took several plasmids that provide resistance to various antibiotics and introduced them into different bacteria isolated from patients in hospitals. We studied how these plasmids could spread between different bacterial strains of the same species, and how they affected the growth of the bacteria. Surprisingly, we found that plasmids are not always a burden. In some cases, they actually help bacteria grow faster. This unexpected finding suggests that, under certain conditions, resistance genes may provide broader advantages than we previously thought. Our goal is to identify the conditions that make plasmids beneficial in some bacteria but a burden in others, and to predict how and where resistance is likely to spread. If we can understand how bacteria are affected by plasmids, and anticipate which strains are most likely to gain resistance, we may be able to track outbreaks more effectively and design more personalised treatment strategies in a bid to eliminate infections that are increasingly difficult to treat.
+<br>
 
-Even when it is possible to treat infections caused by multi-drug resistant pathogens, it can be difficult and expensive, and there is a dearth of new antimicrobials coming to market owing to rapid emergence of resistance in the face of prolonged development and testing. Preventing the emergence of AMR in potential pathogens is therefore an important goal for evolutionary microbiology. 
-#### Plasmids spread resistance
-Mobile genetic elements (MGEs) such as plasmids and transposable elements are key driving forces that transmit AMR within bacterial communities. While plasmids are expected to be lost when there is low or no selection pressures, plasmids containing AMR genes are known to persist in environments with low, or even no, antibiotic selection pressure (low antibiotic concentration). 
-
-It is thought that the ability of AMR plasmids to persist in communities is due to the presence of bacteria that can act as reservoirs for plasmids, because different bacteria vary in their susceptibility to acquiring, harbouring, and disseminating resistance MGEs. However, the features of bacteria that predispose them to become plasmid reservoirs is unclear, hampering our ability to predict such behaviour and develop therapeutic treatments to efficiently tackle AMR.
-#### Do we know how plasmids spread?
-I will be working on studying the susceptibility of bacteria towards MGEs, and asking: what genetic and molecular factors stabilise plasmids in the host? What causes the ability to differentially acquire plasmids? And what evolutionary forces stabilise these interactions? My project will focus on the interactions between diverse strains of the opportunistic pathogen Pseudomonas aeruginosa, and their associated MGEs. 
-
-I will be combining wet-lab experiments with Machine Learning and Bioinformatics tools to study plasmid dynamics as a function of the genetic interaction between the plasmid and the host genome. This work will help identify the underlying mechanisms that allow plasmids to persist and transfer among members of bacterial communities. Ultimately, we will be able to predict microbiomes in which transmission of AMR plasmids are likely to be heightened, allowing us to better control the spread of antimicrobial resistance.
 
 
 <figure style="display:grid;place-items:center;">
     <img src='/img/lab-photo-1.webp' sizes='10vw' alt='lab photo' style='width:50%;height:auto'/>
     <figcaption><i>The wonderful people at the ELM Lab. Edinburgh 2024</i></figcaption>
 </figure>
+
+<br>
+<br>
